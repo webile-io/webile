@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @webile-io https://webilio.io
+- 👋 Hi, I’m @webile-io https://webile.io
 - 👀 I’m interested in digital products
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on any digital product
